@@ -41,17 +41,15 @@ Throughout the program, I had the opportunity to actively participate in eight f
 > Developed a GARCH time series model to forecast asset volatility, retrieved stock data via an API, cleaned and stored the data in a SQLite database and lastly constructed an API to deliver model predictions.
 <br>
 
-### :zap: [Completion Badge](https://www.credly.com/badges/2619fe1b-c7f2-4fb5-9c5e-74d20bc27afa/public_url)
+### :zap: [Completion Badge](https://www.credly.com/badges/1c24cefc-9a6b-48a3-9493-f3cea30d34c3)
 
-<img align="center" src="https://images.credly.com/size/340x340/images/42780b1f-a849-40e0-88a8-de3ab38adc52/image.png" width="400">
-<br>
+
 
 **NOTE**: *The code content of the projects will not be uploaded due to copyright issues.*
 
 <br>
 
-### ***Let's connect:*** 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swapnanil-mandal-747b1b25b) 
+
 
 
 
